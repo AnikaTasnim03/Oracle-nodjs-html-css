@@ -1,2 +1,2 @@
-# Oracle-nodjs-html-css
+# Oracle-node.js-html-css
 Its my first github repo
